@@ -1,3 +1,5 @@
+#!C:\Users\Stollentroll\AppData\Local\Microsoft\WindowsApps\python.exe
+
 """
 Set task: Creating a tic-tac-toe game with a GUI.
 Method:
